@@ -4,6 +4,7 @@
 ## Markets I want to trade this semester
 - Hangseng
 - ASX large caps
+- Mangos
 - Bonds
   
 ## One market story that hooked me
